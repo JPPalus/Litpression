@@ -17,7 +17,7 @@ This project is still work in progress. One important feature missing is the int
 
 Rendering done with DIS optical flow, hence the noisy background
 
-![](https://raw.githubusercontent.com/olvb/litpression/master/samples/bbb.gif)
+![](https://raw.githubusercontent.com/jppalus/litpression/master/samples/bbb.gif)
 
 *Shot taken from [Big Buck Bunny](https://peach.blender.org/)*
 
